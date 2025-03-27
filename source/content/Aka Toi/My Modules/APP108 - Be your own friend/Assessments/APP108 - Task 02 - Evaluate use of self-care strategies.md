@@ -4,15 +4,22 @@ date created: " 2025-02-02"
 Programme name: New Zealand Apprenticeship in Mental Health and Addiction Support
 Module: "APP108: Be your own friend"
 Assessment: "Task 2: Evaluate use of self-care strategies"
-outgoing links: 
+outgoing links: "[[APP108 - Task 01 - Question 7 continued]]"
 backlinks: 
 tags:
-  - APP1
   - aka
   - toi
   - study
   - academic
   - apprenticeship
+  - be
+  - your
+  - own
+  - friend
+  - self
+  - care
+  - record
+  - app108
 ---
 # APP108 - Task 02 - Evaluate use of self-care strategies
 

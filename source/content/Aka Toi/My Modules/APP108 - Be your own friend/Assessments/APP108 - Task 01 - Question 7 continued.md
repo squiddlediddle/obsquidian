@@ -1,5 +1,5 @@
 ---
-title: APP108 - Task 01 - Question 7 -- Self-care record template
+title: APP108 - Task 01 - Question 7 continued
 date created: " 2025-02-02"
 programme name: New Zealand Apprenticeship in Mental Health and addiction Support
 module: "APP108: Be your own friend"
@@ -7,7 +7,6 @@ assessment: "Task 1: Use self-care to support personal wellness"
 outgoing links: 
 backlinks: "[[APP108 - Task 01 - Question 1 to 6]]"
 tags:
-  - APP1
   - aka
   - toi
   - study
@@ -20,7 +19,9 @@ tags:
   - self
   - care
   - record
+  - app108
 ---
+# ...
 This continues on after "Question 6" of note [[APP108 - Task 01 - Question 1 to 6]]. 
 
 The "Self-care record" has been extracted from a template document, supplied by Aka Toi [[Self-care record(APP108)28537v2-1.0.doc]] 

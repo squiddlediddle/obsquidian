@@ -5,9 +5,8 @@ programme name: New Zealand Apprenticeship in Mental Health and addiction Suppor
 module: "APP108: Be your own friend"
 assessment: "Task 1: Use self-care to support personal wellness"
 outgoing links: "[[APP108 - Task 01 - Question 7 continued]]"
-backlinks:
+backlinks: 
 tags:
-  - APP1
   - aka
   - toi
   - study
@@ -20,6 +19,7 @@ tags:
   - self
   - care
   - record
+  - app108
 ---
 # APP108 - Task 01 - Use self-care to support personal wellness
 
