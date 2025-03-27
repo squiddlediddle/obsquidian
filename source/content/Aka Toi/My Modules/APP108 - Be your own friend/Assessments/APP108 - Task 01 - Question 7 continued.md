@@ -21,7 +21,6 @@ tags:
   - record
   - app108
 ---
-# ...
 This continues on after "Question 6" of note [[APP108 - Task 01 - Question 1 to 6]]. 
 
 The "Self-care record" has been extracted from a template document, supplied by Aka Toi [[Self-care record(APP108)28537v2-1.0.doc]] 
