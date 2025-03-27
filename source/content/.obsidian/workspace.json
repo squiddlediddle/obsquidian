@@ -8,20 +8,53 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bd1f7f7507a52b37",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aka Toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 1 to 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "APP108 - Task 01 - Question 1 to 6"
+            }
+          },
+          {
             "id": "47ef711f7e8c1d64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aka Toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 7 continued.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "APP108 - Task 01 - Question 7 continued"
+            }
+          },
+          {
+            "id": "257d41409f4bf5c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aka-toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 1 to 6.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APP108 - Task 01 - Question 1 to 6"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,33 +212,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Images",
+    "Images/tiktok12.png",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 7 continued.md",
     "index.md",
+    "Images/RENDER_all_Pat_v03_24Feb+_RENDER_all_Pat_v03_24Feb+_04_01_2019-07-19_01.47.55.png",
+    "Images/RENDER_all_Pat_v03_24Feb+_RENDER_all_Pat_v03_24Feb+_04_01_2019-07-19_00.56.04.png",
+    "kinder_bdark.PNG",
+    "HPEliteDragonfly_07(19sept)__05_part02_2019-10-28_02.10.37.png",
+    "Images/hp02_13.png",
+    "fc05483b-41a6-487a-a41d-363f40afe3c5_rw_1920.png",
+    "f20aaee1-e96e-4f15-89fa-9accfc9b37cd_rw_1920.png",
+    "citi02.PNG",
+    "cd2724d1-5711-4a9e-a81d-44a108551b04_rw_1920.png",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 02 - Evaluate use of self-care strategies.md",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 1 to 6.md",
     "aka-toi/test note 2.md",
-    "aka-toi/My Modules/APP108 - Be your own friend/Study Notes",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Videos/drumming02.mp4",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Videos/drumming01.mp4",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Single pages/Wednesday Drum Practice Schedule.pdf",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Single pages/Tuesday Drum Practice Schedule.pdf",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Single pages/Thursday Drum Practice Schedule.pdf",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Single pages/Sunday Drum Practice Schedule.pdf",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Single pages/Saturday Drum Practice Schedule.pdf",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Single pages/Monday Drum Practice Schedule.pdf",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Single pages/Friday Drum Practice Schedule.pdf",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_8thDec_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_19thDec_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_28thNov_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_25thDec_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_20thNov_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_04thDec_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_13thDec_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_12thDec_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Files/Self care record photos/SelfCarePhoto_02ndDec_01.png",
-    "aka-toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 02 - Evaluate use of self-care strategies.md",
-    "aka-toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 7 continued.md",
-    "aka-toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 1 to 6.md",
-    "aka-toi/SelfCarePhoto_02ndDec_01.png",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Study Notes",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Videos/drumming02.mp4",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Videos/drumming01.mp4",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Single pages/Wednesday Drum Practice Schedule.pdf",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Single pages/Tuesday Drum Practice Schedule.pdf",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Single pages/Thursday Drum Practice Schedule.pdf",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Single pages/Sunday Drum Practice Schedule.pdf",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Single pages/Saturday Drum Practice Schedule.pdf",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Single pages/Monday Drum Practice Schedule.pdf",
+    "Aka Toi/My Modules/APP108 - Be your own friend/Files/Single pages/Friday Drum Practice Schedule.pdf",
     "category-folder/test-category/test note.md",
     "category-folder/index.md",
     "category-folder/Some note.md",

@@ -4,7 +4,7 @@ date created: " 2025-02-02"
 programme name: New Zealand Apprenticeship in Mental Health and addiction Support
 module: "APP108: Be your own friend"
 assessment: "Task 1: Use self-care to support personal wellness"
-outgoing links: "[[APP108 - Task 02 - Evaluate use of self-care strategies]]"
+outgoing links: 
 backlinks: "[[APP108 - Task 01 - Question 1 to 6]]"
 tags:
   - APP1
@@ -21,8 +21,6 @@ tags:
   - care
   - record
 ---
----
-
 This continues on after "Question 6" of note [[APP108 - Task 01 - Question 1 to 6]]. 
 
 The "Self-care record" has been extracted from a template document, supplied by Aka Toi [[Self-care record(APP108)28537v2-1.0.doc]] 
@@ -394,15 +392,12 @@ You must upload evidence to support your self-care record. Examples of supportin
 ![[SelfCarePhoto_25thDec_01.png]]
 26/12/2024 - Enjoyed a special walk with Nomad to mark the year's end.  
 27/12/2024 - Focused on refining drumming skills, felt accomplished.  
+![[drumming01.mp4]]
+![[drumming02.mp4]]
 28/12/2024 - Reflected on the year's journey, set new intentions.  
 29/12/2024 - Managed holiday activities while maintaining balance.  
 30/12/2024 - Felt grateful for the support and experiences of the year.  
 31/12/2024 - Ended the year with a sense of achievement and gratitude.  
-
----
----
-
-This will be used to inform my answers in the next note [[APP108 - Task 02 - Evaluate use of self-care strategies]]
 
 ---
 ---
