@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mypothesis Series - Chopper Read/Mypothesis Series - Chopper Read.md",
+                "file": "Mypothesis Series/Chopper Read/Mypothesis Series - Chopper Read.md",
                 "mode": "source",
                 "source": false
               },
@@ -254,12 +254,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86f948534470033f",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Mypothesis Series/Chopper Read",
     "index.md",
-    "Mypothesis Series - Chopper Read/Mypothesis Series - Chopper Read.md",
-    "Mypothesis Series - Chopper Read/Additional Media Information Here.md",
-    "Mypothesis Series - Chopper Read",
+    "Mypothesis Series/Chopper Read/Mypothesis Series - Chopper Read.md",
+    "Mypothesis Series/Chopper Read/Additional Media Information Here.md",
+    "Mypothesis Series",
     "Untitled.md",
     "Images/6f882665-83b4-40e5-8c18-d2c05bc804b3_rwc_0x72x799x450x799.gif",
     "Aka Toi/My Modules/APP108 - Be your own friend/Assessments/APP108 - Task 01 - Question 7 continued.md",
@@ -300,7 +301,6 @@
     "category-folder/My Aka Toi/My Subconscious - Logs/En.psyclopaedia/Terminology (healthcare).md",
     "category-folder/My Aka Toi/My Subconscious - Logs/En.psyclopaedia/Readiness Scale.md",
     "category-folder/My Aka Toi/My Subconscious - Logs/En.psyclopaedia/How to explain mental health prevalence.md",
-    "category-folder/My Aka Toi/My Subconscious - Logs/En.psyclopaedia/ChatGPT Prompts.md",
-    "category-folder/My Aka Toi/OVERVIEW - Aka Toi.md"
+    "category-folder/My Aka Toi/My Subconscious - Logs/En.psyclopaedia/ChatGPT Prompts.md"
   ]
 }
