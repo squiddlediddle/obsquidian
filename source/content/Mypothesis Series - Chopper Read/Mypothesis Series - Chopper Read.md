@@ -7,12 +7,9 @@ Assessment:
 outgoing links: 
 backlinks: 
 tags:
-  - APP1
-  - aka
-  - toi
-  - study
-  - academic
-  - apprenticeship
+  - Mypothesis
+  - chopper
+  - read
 ---
 Media referenced in the following document are:
 - [Chopper (film)](https://en.wikipedia.org/wiki/Chopper_\(film\))
@@ -98,7 +95,7 @@ Mark Brandon Read's psychological and criminal background not only shaped his re
 
 ---
 ---
-# Likelihood and Support for Your Theory
+# Likelihood and Support
 
 My theory that Mark Brandon "Chopper" Read's public persona and media success were significantly shaped by a professional collaborator, such as Andrew R. McCoy, is supported by several key factors:
 
